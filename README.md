@@ -1,2 +1,2 @@
-# Locate-Assets-Package-Ruby
-Locate Assets Package Ruby
+# Bank-Account-Validation-Plan-Ruby
+Bank Account Validation Plan
